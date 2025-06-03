@@ -436,10 +436,16 @@ footer{
     .p-container h1 span {
        font-size: 1.3rem;
      }
-    . p-container img{
+    .p-container img{
        margin: 10px;
        width: 35%;
        max-height: 100px;
+     }
+     .flex p{
+        font-size: 1.1rem;
+        padding: 2px;
+        max-height: 600px
+        width: 35%;
      }
         
 }
